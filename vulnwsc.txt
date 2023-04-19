@@ -19,6 +19,7 @@ Archer C50 3.0
 Archer C50 4.0
 Archer C50 5.0
 Archer C50 6.0
+Archer C64
 Archer MR200 1.0
 Archer MR200 4.0
 Archer MR400 4.2
