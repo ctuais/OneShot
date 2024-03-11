@@ -49,6 +49,7 @@ Home Internet Center Keenetic series
 Huawei Wireless Access Point RT2860
 JWNR2000v2(Wireless AP) JWNR2000v2
 Keenetic Keenetic series
+Linksys EA6350
 Linksys Wireless Access Point EA7500
 Linksys Wireless Router WRT110
 NBG-419N NBG-419N
